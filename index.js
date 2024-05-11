@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["PLAYING","MUSIC"];
+const statusMessages = ["Playing **ishikdeveloper.github.io/bot | help**"];
 
 
 let currentIndex = 0;
